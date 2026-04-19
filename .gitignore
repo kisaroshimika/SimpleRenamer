@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+ENV/
+.agent/
+.gemini/
+.idea/
+.vscode/
+*.log
+
+scratch/
