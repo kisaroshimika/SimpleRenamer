@@ -37,8 +37,8 @@
 ## 🛠️ インストール・実行方法 (Installation)
 
 ### 実行可能ファイル (.exe) を使用する場合
-1. `dist/SimpleRenamer.exe` をダウンロードします。
-2. ダブルクリックして実行するだけです。（Pythonのインストールは不要です）
+1. [GitHub Releases](https://github.com/kisaroshimika/SimpleRenamer/releases/) から最新の `SimpleRenamer.exe` をダウンロードします。
+2. ダウンロードしたファイルをダブルクリックして実行するだけです。（Pythonのインストールは不要です）
 
 ### ソースコードから実行する場合
 必要なライブラリをインストールしてから起動します。
